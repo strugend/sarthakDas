@@ -28,6 +28,20 @@ body::before {
   z-index: -1;
 }
 
+@media screen and (max-width: 556px) {
+  body::before {
+  content: "";
+  position: fixed;
+  background: #040404;
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  z-index: -1;
+  }
+}
+
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
