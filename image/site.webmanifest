@@ -1,0 +1,22 @@
+{
+    "short_name": "SarthakDas",
+ "name": "SarthakDas",
+ "description": "This is a portfolio of Sarthak Das showing all the important achievements and works done by him in various companies along with the research projects and certifications. This website is dedicated towards his life and shows the journey he had travelled so far.",
+ "theme_color": "#ffffff",  
+ "background_color": "#000000",  
+ "display": "standalone",  
+ "orientation": "portrait-primary", 
+ "start_url": "index.html",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
